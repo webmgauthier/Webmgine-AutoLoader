@@ -1,0 +1,14 @@
+{
+    "name": "Webmgine/AutoLoader",
+    "description": "PHP class autoloader based on namespaces/directories association",
+    "authors": [
+        {
+            "name": "Michel Gauthier",
+            "email": "web.mgauthier@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
