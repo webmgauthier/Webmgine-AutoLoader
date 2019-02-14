@@ -1,5 +1,5 @@
 {
-    "name": "Webmgine/AutoLoader",
+    "name": "webmgine/auto-loader",
     "description": "PHP class autoloader based on namespaces/directories association",
     "authors": [
         {
