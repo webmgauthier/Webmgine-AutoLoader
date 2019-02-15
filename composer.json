@@ -13,5 +13,6 @@
     },
     "autoload": {
         "psr-4": {"Webmgine\\": "src/"}
-    }
+    },
+    "license": "MIT"
 }
