@@ -4,7 +4,11 @@ PHP class autoloader based on namespaces/directories association
 
 ## Getting Started
 
-Include **AutoLoader.php** in your project.
+Use composer autload
+```
+require __DIR__ . '/vendor/autoload.php';
+```
+or include **src/AutoLoader.php** in your project.
 
 Set your project base directory
 ```
