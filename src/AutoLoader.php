@@ -5,7 +5,7 @@ class AutoLoader{
 
     protected static $baseDir = null;
 
-    public static function autoLoad(string $namespace):void{
+    public static function autoLoad(string $namespace){
         // Get class file
         $filePath = self::filePathFromNamespace($namespace);
 		if($filePath === ''){
